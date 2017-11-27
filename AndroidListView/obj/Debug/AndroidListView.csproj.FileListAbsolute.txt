@@ -1,0 +1,16 @@
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\bin\Debug\AndroidListView.dll
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\bin\Debug\AndroidListView.pdb
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\bin\Debug\AndroidListView.AndroidListView.apk
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\bin\Debug\AndroidListView.AndroidListView-Signed.apk
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\AndroidListView.csprojResolveAssemblyReference.cache
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\AndroidListView.csproj.CoreCompileInputs.cache
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\AndroidListView.dll
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\AndroidListView.pdb
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\android\bin\AndroidListView.AndroidListView.apk
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\res\layout\listview_row.xml
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\res\layout\main.xml
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\res\values\strings.xml
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\R.cs.flag
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\uploadflags.txt
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\bin\Debug\AndroidListView.dll.mdb
+C:\Users\Gabi és Tomi\source\repos\AndroidListView\AndroidListView\obj\Debug\android\assets\AndroidListView.dll.mdb
